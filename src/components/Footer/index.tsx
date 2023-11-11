@@ -1,4 +1,5 @@
 import {
+  Col3,
   Content,
   FooterWrapper,
   MiddleCol,
@@ -75,12 +76,21 @@ function Footer() {
               </StyledNavLinkContainer>
             </nav>
           </MiddleCol>
-          <div className="col-3">
+          <Col3 className="col-3">
             <span>Siga-nos:</span>
-            <p>Insta</p>
-
-            <p>Face</p>
-          </div>
+            <a
+              href="https://www.instagram.com/pedacos_de_aventura/"
+              target="_blank"
+            >
+              Instagram
+            </a>
+            <a
+              href="https://www.facebook.com/PedacosDeAventura"
+              target="_blank"
+            >
+              Facebook
+            </a>
+          </Col3>
         </Content>
       </FooterWrapper>
     </>

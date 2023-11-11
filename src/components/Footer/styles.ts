@@ -46,6 +46,13 @@ export const MiddleCol = styled.div`
   }
 `;
 
+export const Col3 = styled.div`
+  & a {
+    display: block;
+    margin: 1rem 0;
+  }
+`;
+
 export const StyledNavLinkContainer = styled.div`
   margin-top: 1rem;
 `;
