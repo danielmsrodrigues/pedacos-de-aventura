@@ -3,7 +3,6 @@ import App from "../App";
 import Home from "../pages/Home";
 import Percursos from "../pages/Percursos";
 import Arborismo from "../pages/Arborismo";
-import Sabores from "../pages/Sabores";
 import About from "../pages/About";
 import Contacts from "../pages/Contacts";
 import Birthday from "../pages/Birthday";
@@ -25,10 +24,6 @@ export const router = createBrowserRouter([
       {
         path: "/arborismo",
         element: <Arborismo />,
-      },
-      {
-        path: "/sabores",
-        element: <Sabores />,
       },
       {
         path: "/sobre",
