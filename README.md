@@ -1,5 +1,31 @@
-This is a fictitious project made for a real company called Pedaços de Aventura, based in Cascais. Due to the nature of this project, a real reservation can't be implement in order to not create false reservations in case someone eventually finds this fictitious website.
+# Pedaços de Aventura Website
 
-I am still coding the responsive part of the website but the desktop part is already done! Please take a look!
+## Introduction
+This project is a website for the company "Pedaços de Aventura," built using React, Vite, TypeScript, React Router DOM, and Styled Components. The purpose of this website is to provide users with information about the company and offer a contact form for inquiries. Please note that, due to project constraints, a booking system has not been implemented to prevent potential confusion.
 
-https://pedacos-de-aventura.vercel.app/
+## See the live demo: https://pedacos-de-aventura.vercel.app/
+
+## Technologies Used
+- React
+- Vite
+- TypeScript
+- React Router DOM
+- Styled Components
+
+## Getting Started
+Follow these steps to get a copy of the project up and running on your local machine.
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/pedacos-de-aventura.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd pedacos-de-aventura
+4. **Install dependencies**
+   ```bash
+   npm install
+6. **Run the development server**
+   ```bash
+   npm run dev
+
+Disclaimer:This website does not have a booking system to prevent potential confusion. Users are advised not to attempt any reservations.
