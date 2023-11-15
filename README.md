@@ -28,4 +28,11 @@ Follow these steps to get a copy of the project up and running on your local mac
    ```bash
    npm run dev
 
+## Contact
+If you have any questions or just want to connect, feel free to reach out:
+
+LinkedIn: [Daniel Rodrigues](https://www.linkedin.com/in/daniel-mateus-soares-rodrigues/)
+
+Happy coding!
+
 Disclaimer:This website does not have a booking system to prevent potential confusion. Users are advised not to attempt any reservations.
