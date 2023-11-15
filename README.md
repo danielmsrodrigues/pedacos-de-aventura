@@ -35,4 +35,6 @@ LinkedIn: [Daniel Rodrigues](https://www.linkedin.com/in/daniel-mateus-soares-ro
 
 Happy coding!
 
+<hr/>
+
 Disclaimer:This website does not have a booking system to prevent potential confusion. Users are advised not to attempt any reservations.
