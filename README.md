@@ -37,4 +37,6 @@ Happy coding!
 
 <hr/>
 
-Disclaimer:This website does not have a booking system to prevent potential confusion. Users are advised not to attempt any reservations.
+Disclaimer: This website does not have a booking system to prevent potential confusion. Users are advised not to attempt any reservations.
+
+Still in development...
